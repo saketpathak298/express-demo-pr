@@ -1,4 +1,4 @@
-// require("./config/db/mongoose");
+require("./config/db/mongoose");
 let createError = require("http-errors");
 let express = require("express");
 let path = require("path");
